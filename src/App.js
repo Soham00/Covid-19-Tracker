@@ -1,7 +1,4 @@
 import './App.scss';
-
-
-
 import React, {lazy, useState, Suspense, useEffect} from 'react';
 import {Route, Redirect, Switch, useLocation} from 'react-router-dom';
 import useDarkMode from 'use-dark-mode';
